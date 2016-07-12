@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"path": "github.com/minio/blake2b-simd",
+			"revision": "959f72aaa5d59f6956ee163ea3ad596975cd8d23",
+			"revisionTime": "2016-07-08T16:47:17+02:00"
+		}
+	]
+}
